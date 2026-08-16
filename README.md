@@ -7,8 +7,8 @@
 <strong>Get Involved</strong>
 
 * [Contributing Guide](CONTRIBUTING.md)
-* [Issues](https://github.com/LANGTAOSHA-prog/zentools-xyz/issues)
-* [Pull Requests](https://github.com/LANGTAOSHA-prog/zentools-xyz/pulls)
+* [Issues](https://github.com/LANGTAOSHA-prog/Free-public-apis-/issues)
+* [Pull Requests](https://github.com/LANGTAOSHA-prog/Free-public-apis-/pulls)
 * [LICENSE](LICENSE) 
 
 <br />
