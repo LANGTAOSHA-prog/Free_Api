@@ -1,6 +1,6 @@
 # Free Public APIs
 
-> 免费公开 API 集合（精选版）——从 [public-apis](https://github.com/public-apis/public-apis) 过滤：仅保留免费、无需认证（Auth=No）的 API，已去除商业推广与收费项目。
+> 免费公开 API 集合（精选版）
 
 ## Learn more about Public APIs
 
