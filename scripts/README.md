@@ -1,6 +1,6 @@
-# Public APIs Scripts
+# Free Public APIs Scripts
 
-This directory contains all validation and testing scripts used by Public APIs.
+This directory contains all validation and testing scripts used by Free Public APIs.
 
 ```bash
 scripts
@@ -28,13 +28,13 @@ $ python -m pip install -r scripts/requirements.txt
 
 ## Run validations
 
-To run format validation on the `README.md` file, being in the root directory of public-apis, run:
+To run format validation on the `README.md` file, being in the root directory of this repository, run:
 
 ```bash
 $ python scripts/validate/format.py README.md
 ```
 
-To run link validation on the `README.md` file, being in the root directory of public-apis, run:
+To run link validation on the `README.md` file, being in the root directory of this repository, run:
 
 ```bash
 $ python scripts/validate/links.py README.md

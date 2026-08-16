@@ -1,10 +1,10 @@
 # Free Public APIs
 
-> 免费公开 API 集合（精选版）
+> 免费公开 API 精选集：776 个免费、无需认证（Auth=No）的公开 API，覆盖 48 个分类，全部开箱即用，无商业推广、无收费项目。
 
-## Learn more about Public APIs
+## Get Involved
 
-<strong>Get Involved</strong>
+<strong>参与贡献</strong>
 
 * [Contributing Guide](CONTRIBUTING.md)
 * [Issues](https://github.com/LANGTAOSHA-prog/Free-public-apis-/issues)
@@ -1233,4 +1233,4 @@ API | Description | Auth | HTTPS | CORS |
 <br>
 
 ## License
-[MIT](LICENSE) (c) 2022 public-apis
+[MIT](LICENSE)

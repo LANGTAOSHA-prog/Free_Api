@@ -9,7 +9,7 @@ import re
 import sys
 
 # 分类标题前的内容（商业推广区）截止于此标题行
-KEEP_FROM_HEADER = "## Learn more about Public APIs"
+KEEP_FROM_HEADER = "## Get Involved"
 INDEX_HEADER = "## Index"
 
 # Auth 列允许保留的值（严格过滤：无需认证 = 免费公开访问）

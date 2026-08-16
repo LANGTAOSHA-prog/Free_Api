@@ -109,8 +109,8 @@ def has_cloudflare_protection(resp: Response) -> bool:
         - https://superuser.com/a/888526
 
     Discussions in issues and pull requests:
-        - https://github.com/public-apis/public-apis/pull/2409
-        - https://github.com/public-apis/public-apis/issues/2960 
+        - https://github.com/LANGTAOSHA-prog/Free-public-apis-/pull/2409
+        - https://github.com/LANGTAOSHA-prog/Free-public-apis-/issues/2960 
     """
 
     code = resp.status_code
