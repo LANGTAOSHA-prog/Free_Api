@@ -1,6 +1,10 @@
 # Free Public APIs
 
-共 776,776 条免费、无需认证（Auth=No）的公开 API，覆盖 48 个分类，全部开箱即用。
+<p align="center">
+  <img src="https://placehold.co/200x200?text=Free%20Public%20APIs" alt="Free Public APIs Logo" />
+</p>
+
+Free Public APIs 是一个收录了超过 **776,776** 条免费、无需认证（Auth=No）的公开 API，覆盖 **48** 个分类，全部开箱即用，帮助开发者快速找到所需的数据接口。
 
 ## Index
 
